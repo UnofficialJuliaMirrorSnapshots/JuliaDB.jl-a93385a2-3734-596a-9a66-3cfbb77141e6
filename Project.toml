@@ -1,5 +1,6 @@
 name = "JuliaDB"
 uuid = "a93385a2-3734-596a-9a66-3cfbb77141e6"
+version = "0.13.0"
 
 [deps]
 Dagger = "d58978e5-989f-55fb-8d15-ea34adc7bf54"
@@ -26,7 +27,7 @@ Dagger = "≥ 0.8.0"
 Glob = "≥ 1.2.0"
 IndexedTables = "≥ 0.12.1"
 MemPool = "≥ 0.2.0"
-OnlineStats = "≥ 0.17.0"
+OnlineStats = "≥ 1.0.0"
 PooledArrays = "≥ 0.4.1"
 TextParse = "≥ 0.6.0"
 julia = "≥ 1.0.0"
